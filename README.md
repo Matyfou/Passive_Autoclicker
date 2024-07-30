@@ -32,6 +32,9 @@ Here's a demonstration video on Minecraft showing quick switch between spamming 
 
 ⠀
 [![Watch the video](https://img.youtube.com/vi/DeVZcmNn2UE/0.jpg)](https://www.youtube.com/watch?v=DeVZcmNn2UE)
+⠀
+
+[(Click here or on the image)](https://www.youtube.com/watch?v=DeVZcmNn2UE)
 
 
 ## Configuration Parameters
