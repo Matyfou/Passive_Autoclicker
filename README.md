@@ -59,3 +59,6 @@ Here's a demonstration video on Minecraft showing quick switch between spamming 
 Please be aware that using an autoclicker on platforms where it is prohibited, such as Minecraft, may violate the rules and result in penalties such as bans. Use this tool responsibly and only in contexts where it is allowed. 
 
 I am not responsible for any issues, including bans or other penalties, that may arise from improper use of this autoclicker. Use at your own risk.
+
+
+Made almost entirely by ChatGPT-4o ¯\_(ツ)_/¯
