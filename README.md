@@ -29,6 +29,7 @@ For example, if the user clicks three times per second and ClicksCount is set to
 ## Demonstration
 
 Here's a demonstration video on Minecraft showing quick switch between spamming and normal clicks without using any hotkey for automatic activation.
+⠀
 [![Watch the video](https://img.youtube.com/vi/DeVZcmNn2UE/0.jpg)](https://www.youtube.com/watch?v=DeVZcmNn2UE)
 
 
